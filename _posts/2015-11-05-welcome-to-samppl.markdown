@@ -11,7 +11,7 @@ There are three design reviews that our robot must pass. The first design review
 Design 1 (Our First Choice):
 
 [![design 1 - page 1]({{site.baseurl}}/images/design1_page1.jpg){:width="300px"}][design1_page1]
-[![design 1 - page 2]({{site.url}}/images/design1_page2.jpg){:width="300px"}][design1_page2]
+[![design 1 - page 2]({{site.baseurl}}/images/design1_page2.jpg){:width="300px"}][design1_page2]
 
 Design 2 (Back Up Bare Minimum Design) & Design 3 (Back Up Design):
 [![design 2 - page 1]({{site.baseurl}}/images/design23_page1.jpg){:width="300px"}][design23_page1]
