@@ -4,10 +4,10 @@
     <title>Team S.A.M. People -- CMPE 118/218 Final Project</title>
     <description>CMPE 118/218 student team website that hosts our work calender and various updates regarding our progress for the final robot project.
 </description>
-    <link>http://users.soe.ucsc.edu/~vansgirl12/samppl/</link>
-    <atom:link href="http://users.soe.ucsc.edu/~vansgirl12/samppl/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Nov 2015 22:46:54 -0800</pubDate>
-    <lastBuildDate>Thu, 05 Nov 2015 22:46:54 -0800</lastBuildDate>
+    <link>https://users.soe.ucsc.edu/~vansgirl12/samppl/</link>
+    <atom:link href="https://users.soe.ucsc.edu/~vansgirl12/samppl/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 05 Nov 2015 22:51:16 -0800</pubDate>
+    <lastBuildDate>Thu, 05 Nov 2015 22:51:16 -0800</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Thu, 05 Nov 2015 17:28:43 -0800</pubDate>
-        <link>http://users.soe.ucsc.edu/~vansgirl12/samppl/samppl/update/2015/11/05/welcome-to-samppl.html</link>
-        <guid isPermaLink="true">http://users.soe.ucsc.edu/~vansgirl12/samppl/samppl/update/2015/11/05/welcome-to-samppl.html</guid>
+        <link>https://users.soe.ucsc.edu/~vansgirl12/samppl/samppl/update/2015/11/05/welcome-to-samppl.html</link>
+        <guid isPermaLink="true">https://users.soe.ucsc.edu/~vansgirl12/samppl/samppl/update/2015/11/05/welcome-to-samppl.html</guid>
         
         
         <category>samppl</category>
