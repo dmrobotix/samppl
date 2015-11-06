@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team S.A.M. People -- CMPE 118/218 Final Project</title>
+    <description>CMPE 118/218 student team website that hosts our work calender and various updates regarding our progress for the final robot project.
+</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 05 Nov 2015 22:09:43 -0800</pubDate>
+    <lastBuildDate>Thu, 05 Nov 2015 22:09:43 -0800</lastBuildDate>
+    <generator>Jekyll v3.0.0</generator>
+    
+      <item>
+        <title>Slug Wars -- Design Review 1</title>
+        <description>&lt;p&gt;Welcome to our team website. Here you can find our work calendar and catch our on our team’s progress. Our team is called &lt;strong&gt;S.A.M. People&lt;/strong&gt;, a play on “sand people”, a moniker used to refer to the Tuskgen Raiders in &lt;em&gt;Star Wars&lt;/em&gt;. Our humble ‘droid is known as, &lt;em&gt;&lt;strong&gt;Pink Droid - The Rebel Scum&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;There are three design reviews that our robot must pass. The first design review took place today in class when each team presented their best design and received feedback from our professor and the TAs. Below are our three designs (click the image to see a larger version):&lt;/p&gt;
+
+&lt;p&gt;Design 1 (Our First Choice):&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/images/design1_page1.jpg&quot;&gt;&lt;img src=&quot;/images/design1_page1.jpg&quot; alt=&quot;design 1 - page 1&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;/images/design1_page1.jpg&quot;&gt;&lt;img src=&quot;/images/design1_page2.jpg&quot; alt=&quot;design 1 - page 2&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Design 2 (Back Up Bare Minimum Design) &amp;amp; Design 3 (Back Up Design):
+&lt;a href=&quot;/images/design23_page1.jpg&quot;&gt;&lt;img src=&quot;/images/design23_page1.jpg&quot; alt=&quot;design 2 - page 1&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;/images/design23_page2.jpg&quot;&gt;&lt;img src=&quot;/images/design23_page2.jpg&quot; alt=&quot;design 3 - page 1&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;/images/design23_page3.jpg&quot;&gt;&lt;img src=&quot;/images/design23_page3.jpg&quot; alt=&quot;design 3 - page 2&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 05 Nov 2015 17:28:43 -0800</pubDate>
+        <link>/samppl/update/2015/11/05/welcome-to-samppl.html</link>
+        <guid isPermaLink="true">/samppl/update/2015/11/05/welcome-to-samppl.html</guid>
+        
+        
+        <category>samppl</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+  </channel>
+</rss>
