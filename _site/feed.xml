@@ -6,8 +6,8 @@
 </description>
     <link>https://users.soe.ucsc.edu/~vansgirl12/sampplhttps://users.soe.ucsc.edu/~vansgirl12/samppl/</link>
     <atom:link href="https://users.soe.ucsc.edu/~vansgirl12/sampplhttps://users.soe.ucsc.edu/~vansgirl12/samppl/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 10 Nov 2015 17:57:03 -0800</pubDate>
-    <lastBuildDate>Tue, 10 Nov 2015 17:57:03 -0800</lastBuildDate>
+    <pubDate>Tue, 10 Nov 2015 17:59:06 -0800</pubDate>
+    <lastBuildDate>Tue, 10 Nov 2015 17:59:06 -0800</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
@@ -16,14 +16,17 @@
 
 &lt;p&gt;Note: Team schedule is at the end of the page.&lt;/p&gt;
 
-&lt;p&gt;Bill of Materials:
-&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/bom.png&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/bom.png&quot; alt=&quot;bill of materials&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Bill of Materials:&lt;/p&gt;
 
-&lt;p&gt;System Block Diagram:
-&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/block_diagram.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/block_diagram.jpg&quot; alt=&quot;system block diagram&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/bom.png&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/bom.png&quot; alt=&quot;bill of materials&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Mechanical Design Sketches:
-[&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/design1_page1.jpg&quot; alt=&quot;design 1 - page 1&quot; width=&quot;300px&quot; /&gt;][design1_page1]
+&lt;p&gt;System Block Diagram:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/block_diagram.png&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/block_diagram.png&quot; alt=&quot;system block diagram&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Mechanical Design Sketches:&lt;/p&gt;
+
+&lt;p&gt;[&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/design1_page1.jpg&quot; alt=&quot;design 1 - page 1&quot; width=&quot;300px&quot; /&gt;][design1_page1]
 [&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/design1_page1.jpg&quot; alt=&quot;design 1 - page 1&quot; width=&quot;300px&quot; /&gt;][design1_page1]
 [&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/design1_page1.jpg&quot; alt=&quot;design 1 - page 1&quot; width=&quot;300px&quot; /&gt;][design1_page1]
 [&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/design1_page1.jpg&quot; alt=&quot;design 1 - page 1&quot; width=&quot;300px&quot; /&gt;][design1_page1]
@@ -31,13 +34,15 @@
 [&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/design1_page1.jpg&quot; alt=&quot;design 1 - page 1&quot; width=&quot;300px&quot; /&gt;][design1_page1]
 [&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/design1_page1.jpg&quot; alt=&quot;design 1 - page 1&quot; width=&quot;300px&quot; /&gt;][design1_page1]&lt;/p&gt;
 
-&lt;p&gt;Breadboard Tape Sensors:
-&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/tape_sensor_circuit.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/tape_sensor_circuit.jpg&quot; alt=&quot;design 1 - page 1&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Breadboard Tape Sensors:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/tape_sensor_circuit.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/tape_sensor_circuit.jpg&quot; alt=&quot;design 1 - page 1&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/vtqR5XZU7J0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;Top 2 Levels of State Machine:
-&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/state-diagram-toplevel.png&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/state-diagram-toplevel.png&quot; alt=&quot;top level&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;
+&lt;p&gt;Top 2 Levels of State Machine:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/state-diagram-toplevel.png&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/state-diagram-toplevel.png&quot; alt=&quot;top level&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;
 &lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/state-diagram-shooting.png&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/state-diagram-shooting.png&quot; alt=&quot;shooting&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;
 &lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/state-diagram-avoidance.png&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/state-diagram-avoidance.png&quot; alt=&quot;avoidance&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;
 &lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/state-diagram-escaping.png&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/state-diagram-escaping.png&quot; alt=&quot;escaping&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;
