@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Slug Wars -- Personal Schedules"
+title:  "Slug Wars -- Design Checkoff"
 date:   2015-11-10 17:42:10 -0800
 categories: samppl update calendars
 ---
@@ -29,11 +29,11 @@ Breadboard Tape Sensors:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vtqR5XZU7J0" frameborder="0" allowfullscreen></iframe>
 
 Top 2 Levels of State Machine:
-[top level]({{site.baseurl}}/images/state-diagram-toplevel.png){:width="300px"}][toplevel]
-[shooting]({{site.baseurl}}/images/state-diagram-shooting.png){:width="300px"}][shooting]
-[avoidance]({{site.baseurl}}/images/state-diagram-avoidance.png){:width="300px"}][avoidance]
-[escaping]({{site.baseurl}}/images/state-diagram-escaping.png){:width="300px"}][escaping]
-[ammo]({{site.baseurl}}/images/state-diagram-ammo.png){:width="300px"}][ammo]
+[![top level]({{site.baseurl}}/images/state-diagram-toplevel.png){:width="300px"}][toplevel]
+[![shooting]({{site.baseurl}}/images/state-diagram-shooting.png){:width="300px"}][shooting]
+[![avoidance]({{site.baseurl}}/images/state-diagram-avoidance.png){:width="300px"}][avoidance]
+[![escaping]({{site.baseurl}}/images/state-diagram-escaping.png){:width="300px"}][escaping]
+[![ammo]({{site.baseurl}}/images/state-diagram-ammo.png){:width="300px"}][ammo]
 
 
 Personal Schedules:
