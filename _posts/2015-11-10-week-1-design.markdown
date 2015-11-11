@@ -8,15 +8,16 @@ The following images and videos detail our design progress (and requirements for
 
 Note: Team schedule is at the end of the page. Click on the image for a bigger version.
 
-Bill of Materials:
+__Bill of Materials:__
 
 [![bill of materials]({{site.baseurl}}/images/bom.png){:width="300px"}][bom]
 
-System Block Diagram:
+__System Block Diagram:__
 
 [![system block diagram]({{site.baseurl}}/images/block_diagram.png){:width="300px"}][sbd]
 
-Mechanical Design Sketches:
+__Mechanical Design Sketches:__
+
 Our diagrams show three levels for our robot. We are designing the robot to 
 run on tank wheels (we have a backup design should they fail that uses 
 two wheels and a castor/skid). We have also drawn dimensions and sketches that
@@ -33,13 +34,13 @@ boards, and ping sensor.
 [![Sketches Page 5]({{site.baseurl}}/images/img005.jpg){:width="300px"}][page5]
 [![Sketches Page 6]({{site.baseurl}}/images/img006.jpg){:width="300px"}][page6]
 
-Breadboard Tape Sensors:
+__Breadboard Tape Sensors:__
 
 [![design 1 - page 1]({{site.baseurl}}/images/tape_sensor_circuit.jpg){:width="300px"}][tapesensor]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vtqR5XZU7J0" frameborder="0" allowfullscreen></iframe>
 
-Top 2 Levels of State Machine:
+__Top 2 Levels of State Machine:__
 
 [![top level]({{site.baseurl}}/images/state-diagram-toplevel.png){:width="300px"}][toplevel]
 [![shooting]({{site.baseurl}}/images/state-diagram-shooting.png){:width="300px"}][shooting]
@@ -48,7 +49,7 @@ Top 2 Levels of State Machine:
 [![ammo]({{site.baseurl}}/images/state-diagram-ammo.png){:width="300px"}][ammo]
 
 
-Personal Schedules:
+__Personal Schedules:__
 <a href="https://users.soe.ucsc.edu/~vansgirl12/samppl/samppl/update/calendars/2015/11/08/personal-schedules.html">Link to schedules</a>
 
 [bom]: {{site.baseurl}}/images/bom.png
