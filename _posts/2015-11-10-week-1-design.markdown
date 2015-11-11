@@ -18,13 +18,12 @@ System Block Diagram:
 
 Mechanical Design Sketches:
 
-[![design 1 - page 1]({{site.baseurl}}/images/design1_page1.jpg){:width="300px"}][design1_page1]
-[![design 1 - page 1]({{site.baseurl}}/images/design1_page1.jpg){:width="300px"}][design1_page1]
-[![design 1 - page 1]({{site.baseurl}}/images/design1_page1.jpg){:width="300px"}][design1_page1]
-[![design 1 - page 1]({{site.baseurl}}/images/design1_page1.jpg){:width="300px"}][design1_page1]
-[![design 1 - page 1]({{site.baseurl}}/images/design1_page1.jpg){:width="300px"}][design1_page1]
-[![design 1 - page 1]({{site.baseurl}}/images/design1_page1.jpg){:width="300px"}][design1_page1]
-[![design 1 - page 1]({{site.baseurl}}/images/design1_page1.jpg){:width="300px"}][design1_page1]
+[Sketches Page 1]({{site.baseurl}}/images/Page1.jpg){:width="300px"}][page1]
+[Sketches Page 2]({{site.baseurl}}/images/Page2.jpg){:width="300px"}][page2]
+[Sketches Page 3]({{site.baseurl}}/images/Page3.jpg){:width="300px"}][page3]
+[Sketches Page 4]({{site.baseurl}}/images/Page4.jpg){:width="300px"}][page4]
+[Sketches Page 5]({{site.baseurl}}/images/img005.jpg){:width="300px"}][page5]
+[Sketches Page 6]({{site.baseurl}}/images/img006.jpg){:width="300px"}][page6]
 
 Breadboard Tape Sensors:
 
@@ -52,9 +51,9 @@ Personal Schedules:
 [avoidance]: {{site.baseurl}}/images/state-diagram-avoidance.png
 [escaping]: {{site.baseurl}}/images/state-diagram-escaping.png
 [ammo]: {{site.baseurl}}/images/state-diagram-ammo.png
-[design23_page3]: {{site.baseurl}}/images/design23_page3.jpg
-[design23_page3]: {{site.baseurl}}/images/design23_page3.jpg
-[design23_page3]: {{site.baseurl}}/images/design23_page3.jpg
-[design23_page3]: {{site.baseurl}}/images/design23_page3.jpg
-[design23_page3]: {{site.baseurl}}/images/design23_page3.jpg
-[design23_page3]: {{site.baseurl}}/images/design23_page3.jpg
+[page1]: {{site.baseurl}}/images/Page1.jpg
+[page2]: {{site.baseurl}}/images/Page2.jpg
+[page3]: {{site.baseurl}}/images/Page3.jpg
+[page4]: {{site.baseurl}}/images/Page4.jpg
+[page5]: {{site.baseurl}}/images/img005.jpg
+[page6]: {{site.baseurl}}/images/img006.jpg
