@@ -18,12 +18,12 @@ System Block Diagram:
 
 Mechanical Design Sketches:
 
-[Sketches Page 1]({{site.baseurl}}/images/Page1.jpg){:width="300px"}][page1]
-[Sketches Page 2]({{site.baseurl}}/images/Page2.jpg){:width="300px"}][page2]
-[Sketches Page 3]({{site.baseurl}}/images/Page3.jpg){:width="300px"}][page3]
-[Sketches Page 4]({{site.baseurl}}/images/Page4.jpg){:width="300px"}][page4]
-[Sketches Page 5]({{site.baseurl}}/images/img005.jpg){:width="300px"}][page5]
-[Sketches Page 6]({{site.baseurl}}/images/img006.jpg){:width="300px"}][page6]
+[![Sketches Page 1]({{site.baseurl}}/images/Page1.jpg){:width="300px"}][page1]
+[![Sketches Page 2]({{site.baseurl}}/images/Page2.jpg){:width="300px"}][page2]
+[![Sketches Page 3]({{site.baseurl}}/images/Page3.jpg){:width="300px"}][page3]
+[![Sketches Page 4]({{site.baseurl}}/images/Page4.jpg){:width="300px"}][page4]
+[![Sketches Page 5]({{site.baseurl}}/images/img005.jpg){:width="300px"}][page5]
+[![Sketches Page 6]({{site.baseurl}}/images/img006.jpg){:width="300px"}][page6]
 
 Breadboard Tape Sensors:
 
