@@ -6,7 +6,7 @@ categories: samppl update calendars
 ---
 The following images and videos detail our design progress (and requirements for check-off):
 
-Note: Team schedule is at the end of the page.
+Note: Team schedule is at the end of the page. Click on the image for a bigger version.
 
 Bill of Materials:
 
@@ -17,6 +17,14 @@ System Block Diagram:
 [![system block diagram]({{site.baseurl}}/images/block_diagram.png){:width="300px"}][sbd]
 
 Mechanical Design Sketches:
+Our diagrams show three levels for our robot. We are designing the robot to 
+run on tank wheels (we have a backup design should they fail that uses 
+two wheels and a castor/skid). We have also drawn dimensions and sketches that
+show the locations of the sensor boards, battery, and UNO stack. There are also 
+detailed sketches and dimensions for the motor mounts, ball launcher, and 
+ball loader. Locations for servo motors and ping sensor are also shown. The 
+last set of drawings show more detailed dimensions for the servos, driving 
+boards, and ping sensor.
 
 [![Sketches Page 1]({{site.baseurl}}/images/Page1.jpg){:width="300px"}][page1]
 [![Sketches Page 2]({{site.baseurl}}/images/Page2.jpg){:width="300px"}][page2]

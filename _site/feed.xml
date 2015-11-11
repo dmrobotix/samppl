@@ -6,15 +6,15 @@
 </description>
     <link>https://users.soe.ucsc.edu/~vansgirl12/sampplhttps://users.soe.ucsc.edu/~vansgirl12/samppl/</link>
     <atom:link href="https://users.soe.ucsc.edu/~vansgirl12/sampplhttps://users.soe.ucsc.edu/~vansgirl12/samppl/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 10 Nov 2015 18:06:02 -0800</pubDate>
-    <lastBuildDate>Tue, 10 Nov 2015 18:06:02 -0800</lastBuildDate>
+    <pubDate>Wed, 11 Nov 2015 11:31:28 -0800</pubDate>
+    <lastBuildDate>Wed, 11 Nov 2015 11:31:28 -0800</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
         <title>Slug Wars -- Design Checkoff</title>
         <description>&lt;p&gt;The following images and videos detail our design progress (and requirements for check-off):&lt;/p&gt;
 
-&lt;p&gt;Note: Team schedule is at the end of the page.&lt;/p&gt;
+&lt;p&gt;Note: Team schedule is at the end of the page. Click on the image for a bigger version.&lt;/p&gt;
 
 &lt;p&gt;Bill of Materials:&lt;/p&gt;
 
@@ -24,7 +24,15 @@
 
 &lt;p&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/block_diagram.png&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/block_diagram.png&quot; alt=&quot;system block diagram&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Mechanical Design Sketches:&lt;/p&gt;
+&lt;p&gt;Mechanical Design Sketches:
+Our diagrams show three levels for our robot. We are designing the robot to 
+run on tank wheels (we have a backup design should they fail that uses 
+two wheels and a castor/skid). We have also drawn dimensions and sketches that
+show the locations of the sensor boards, battery, and UNO stack. There are also 
+detailed sketches and dimensions for the motor mounts, ball launcher, and 
+ball loader. Locations for servo motors and ping sensor are also shown. The 
+last set of drawings show more detailed dimensions for the servos, driving 
+boards, and ping sensor.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/Page1.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/Page1.jpg&quot; alt=&quot;Sketches Page 1&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;
 &lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/Page2.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/Page2.jpg&quot; alt=&quot;Sketches Page 2&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;
@@ -92,7 +100,7 @@ ind out when we’re working on our ‘droid!&lt;/p&gt;
       </item>
     
       <item>
-        <title>Slug Wars -- Design Review 1</title>
+        <title>Slug Wars -- Design Review</title>
         <description>&lt;p&gt;Welcome to our team website. Here you can find our work calendar and follow our team’s progress. Our team is called &lt;strong&gt;S.A.M. People&lt;/strong&gt;, a play on “sand people”, a moniker used to refer to the Tuskgen Raiders in &lt;em&gt;Star Wars&lt;/em&gt;. Our humble ‘droid is known as: &lt;em&gt;&lt;strong&gt;Pink Droid - The Rebel Scum&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;There are three design reviews that our robot must pass. The first design review took place today in class when each team presented their best design and received feedback from our professor and the TAs. Below are our three designs (click the image to see a larger version):&lt;/p&gt;

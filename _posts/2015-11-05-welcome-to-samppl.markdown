@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Slug Wars -- Design Review 1"
+title:  "Slug Wars -- Design Review"
 date:   2015-11-05 17:28:43 -0800
 categories: samppl update
 ---
