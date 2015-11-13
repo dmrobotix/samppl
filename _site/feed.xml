@@ -6,9 +6,36 @@
 </description>
     <link>https://users.soe.ucsc.edu/~vansgirl12/sampplhttps://users.soe.ucsc.edu/~vansgirl12/samppl/</link>
     <atom:link href="https://users.soe.ucsc.edu/~vansgirl12/sampplhttps://users.soe.ucsc.edu/~vansgirl12/samppl/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 12 Nov 2015 13:57:39 -0800</pubDate>
-    <lastBuildDate>Thu, 12 Nov 2015 13:57:39 -0800</lastBuildDate>
+    <pubDate>Thu, 12 Nov 2015 21:29:06 -0800</pubDate>
+    <lastBuildDate>Thu, 12 Nov 2015 21:29:06 -0800</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
+    
+      <item>
+        <title>Slug Wars -- Wheel Testing</title>
+        <description>&lt;p&gt;Below are videos of preliminary wheel tests. In the folliwing setups we are using one 115:1 geared 6V DC motor powered at 5V, tank tread and wheels kit from Tamiya corporation, and a 2.75 inch diameter wheel from Pololu.&lt;/p&gt;
+
+&lt;p&gt;Our results are promising. Our next step is to laser cut the base and mounts in foamcore. Once mounted, we will test both options to see if either are practical. If neither are, we will resort to using the motors with a pair of the 2.75 inch diameter wheels and a skid/castor wheel.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Tank Treads with Kit Wheels&lt;/strong&gt;&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/nzTxYgdTVfI&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;Tank Treads with Polulu Wheel&lt;/strong&gt;&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/pifoTdzok_U&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Tue, 10 Nov 2015 17:42:10 -0800</pubDate>
+        <link>https://users.soe.ucsc.edu/~vansgirl12/sampplhttps://users.soe.ucsc.edu/~vansgirl12/samppl/samppl/update/wheels/motor/2015/11/10/wheel-testing.html</link>
+        <guid isPermaLink="true">https://users.soe.ucsc.edu/~vansgirl12/sampplhttps://users.soe.ucsc.edu/~vansgirl12/samppl/samppl/update/wheels/motor/2015/11/10/wheel-testing.html</guid>
+        
+        
+        <category>samppl</category>
+        
+        <category>update</category>
+        
+        <category>wheels</category>
+        
+        <category>motor</category>
+        
+      </item>
     
       <item>
         <title>Slug Wars -- Design Checkoff</title>
