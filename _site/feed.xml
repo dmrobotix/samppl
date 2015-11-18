@@ -4,10 +4,10 @@
     <title>Team S.A.M. People -- CMPE 118/218 Final Project</title>
     <description>CMPE 118/218 student team website that hosts our work calender and various updates regarding our progress for the final robot project.
 </description>
-    <link>https://users.soe.ucsc.edu/~vansgirl12https://users.soe.ucsc.edu/~vansgirl12/blog/</link>
-    <atom:link href="https://users.soe.ucsc.edu/~vansgirl12https://users.soe.ucsc.edu/~vansgirl12/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 17 Nov 2015 20:37:03 -0800</pubDate>
-    <lastBuildDate>Tue, 17 Nov 2015 20:37:03 -0800</lastBuildDate>
+    <link>https://users.soe.ucsc.edu/~vansgirl12https://users.soe.ucsc.edu/~vansgirl12/samppl/</link>
+    <atom:link href="https://users.soe.ucsc.edu/~vansgirl12https://users.soe.ucsc.edu/~vansgirl12/samppl/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 17 Nov 2015 20:38:14 -0800</pubDate>
+    <lastBuildDate>Tue, 17 Nov 2015 20:38:14 -0800</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
     
       <item>
@@ -20,8 +20,8 @@
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/isorightview.png&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/isorightview.png&quot; alt=&quot;Isometric Right View&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
-      &lt;th&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/rightview.png&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/rightview.png&quot; alt=&quot;Right View&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/isorightview.png&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/isorightview.png&quot; alt=&quot;Isometric Right View&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/rightview.png&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/rightview.png&quot; alt=&quot;Right View&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -30,8 +30,8 @@
       &lt;td&gt;Right View&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/rearview.png&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/rearview.png&quot; alt=&quot;Rear View&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/topview.png&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/topview.png&quot; alt=&quot;Top View&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/rearview.png&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/rearview.png&quot; alt=&quot;Rear View&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/topview.png&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/topview.png&quot; alt=&quot;Top View&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Rear View&lt;/td&gt;
@@ -41,7 +41,7 @@
 &lt;/table&gt;
 
 &lt;h2 id=&quot;foamcore-prototype&quot;&gt;&lt;strong&gt;Foamcore Prototype&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/foamcore-robot.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/foamcore-robot.jpg&quot; alt=&quot;Foamcore Prototype&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/foamcore-robot.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/foamcore-robot.jpg&quot; alt=&quot;Foamcore Prototype&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Working Bumper Prototype (Foamcore)&lt;/strong&gt;&lt;/p&gt;
 
@@ -53,9 +53,9 @@
 &lt;table&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/trackwiredetector.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/trackwiredetector.jpg&quot; alt=&quot;Track Wire Detector&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
-      &lt;th&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/voltageregulators5v33v15a.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/voltageregulators5v33v15a.jpg&quot; alt=&quot;Voltage Regulators 5V, 3.3V 1.5A&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
-      &lt;th&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/voltageregulators5v6v33v.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/voltageregulators5v6v33v.jpg&quot; alt=&quot;Voltage Regulators 6V, 5V, 3.3V&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/trackwiredetector.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/trackwiredetector.jpg&quot; alt=&quot;Track Wire Detector&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/voltageregulators5v33v15a.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/voltageregulators5v33v15a.jpg&quot; alt=&quot;Voltage Regulators 5V, 3.3V 1.5A&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/voltageregulators5v6v33v.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/voltageregulators5v6v33v.jpg&quot; alt=&quot;Voltage Regulators 6V, 5V, 3.3V&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
@@ -67,9 +67,9 @@
   &lt;/tbody&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/bumpers.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/bumpers.jpg&quot; alt=&quot;Bumpers&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/tapesensors.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/tapesensors.jpg&quot; alt=&quot;Tape Sensors&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/beacondetector.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/beacondetector.jpg&quot; alt=&quot;Beacon Detector&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/bumpers.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/bumpers.jpg&quot; alt=&quot;Bumpers&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/tapesensors.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/tapesensors.jpg&quot; alt=&quot;Tape Sensors&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/beacondetector.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/beacondetector.jpg&quot; alt=&quot;Beacon Detector&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
   &lt;tbody&gt;
@@ -85,12 +85,12 @@
 &lt;p&gt;We are maintaining our code for the drivers on &lt;a href=&quot;https://www.dropbox.com/sh/v8sjxvh7grjp1ka/AAAzdhRPmgMnUnuQns-ECcOEa?dl=0&quot;&gt;Dropbox&lt;/a&gt;. Please click the link to look through the code. We have finished the drivers for all of our sensors and acuators.&lt;/p&gt;
 
 &lt;h2 id=&quot;breadboard-acuators&quot;&gt;&lt;strong&gt;Breadboard Acuators&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;We breadboarded our acutators but we also mounted them onto our robot and tested them. We posted videos in a previous entry that can be found &lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/update/wheels/motor/2015/11/10/wheel-testing.html&quot;&gt;here&lt;/a&gt;. You will find two videos there that show that the robot can move and make tank turns using the tank treads.&lt;/p&gt;
+&lt;p&gt;We breadboarded our acutators but we also mounted them onto our robot and tested them. We posted videos in a previous entry that can be found &lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/update/wheels/motor/2015/11/10/wheel-testing.html&quot;&gt;here&lt;/a&gt;. You will find two videos there that show that the robot can move and make tank turns using the tank treads.&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 17 Nov 2015 11:20:10 -0800</pubDate>
-        <link>https://users.soe.ucsc.edu/~vansgirl12https://users.soe.ucsc.edu/~vansgirl12/blog/samppl/update/prototype/foamcore/mdf/solidworks/boards/sensors/drivers/2015/11/17/week2-prototype.html</link>
-        <guid isPermaLink="true">https://users.soe.ucsc.edu/~vansgirl12https://users.soe.ucsc.edu/~vansgirl12/blog/samppl/update/prototype/foamcore/mdf/solidworks/boards/sensors/drivers/2015/11/17/week2-prototype.html</guid>
+        <link>https://users.soe.ucsc.edu/~vansgirl12https://users.soe.ucsc.edu/~vansgirl12/samppl/samppl/update/prototype/foamcore/mdf/solidworks/boards/sensors/drivers/2015/11/17/week2-prototype.html</link>
+        <guid isPermaLink="true">https://users.soe.ucsc.edu/~vansgirl12https://users.soe.ucsc.edu/~vansgirl12/samppl/samppl/update/prototype/foamcore/mdf/solidworks/boards/sensors/drivers/2015/11/17/week2-prototype.html</guid>
         
         
         <category>samppl</category>
@@ -126,8 +126,8 @@
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/fJNBJgsjpDk&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Sun, 15 Nov 2015 00:57:10 -0800</pubDate>
-        <link>https://users.soe.ucsc.edu/~vansgirl12https://users.soe.ucsc.edu/~vansgirl12/blog/samppl/update/wheels/motor/robot/2015/11/15/driving-robot.html</link>
-        <guid isPermaLink="true">https://users.soe.ucsc.edu/~vansgirl12https://users.soe.ucsc.edu/~vansgirl12/blog/samppl/update/wheels/motor/robot/2015/11/15/driving-robot.html</guid>
+        <link>https://users.soe.ucsc.edu/~vansgirl12https://users.soe.ucsc.edu/~vansgirl12/samppl/samppl/update/wheels/motor/robot/2015/11/15/driving-robot.html</link>
+        <guid isPermaLink="true">https://users.soe.ucsc.edu/~vansgirl12https://users.soe.ucsc.edu/~vansgirl12/samppl/samppl/update/wheels/motor/robot/2015/11/15/driving-robot.html</guid>
         
         
         <category>samppl</category>
@@ -155,8 +155,8 @@
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/pifoTdzok_U&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Tue, 10 Nov 2015 17:42:10 -0800</pubDate>
-        <link>https://users.soe.ucsc.edu/~vansgirl12https://users.soe.ucsc.edu/~vansgirl12/blog/samppl/update/wheels/motor/2015/11/10/wheel-testing.html</link>
-        <guid isPermaLink="true">https://users.soe.ucsc.edu/~vansgirl12https://users.soe.ucsc.edu/~vansgirl12/blog/samppl/update/wheels/motor/2015/11/10/wheel-testing.html</guid>
+        <link>https://users.soe.ucsc.edu/~vansgirl12https://users.soe.ucsc.edu/~vansgirl12/samppl/samppl/update/wheels/motor/2015/11/10/wheel-testing.html</link>
+        <guid isPermaLink="true">https://users.soe.ucsc.edu/~vansgirl12https://users.soe.ucsc.edu/~vansgirl12/samppl/samppl/update/wheels/motor/2015/11/10/wheel-testing.html</guid>
         
         
         <category>samppl</category>
@@ -177,11 +177,11 @@
 
 &lt;p&gt;&lt;strong&gt;Bill of Materials:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/bom.png&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/bom.png&quot; alt=&quot;bill of materials&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/bom.png&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/bom.png&quot; alt=&quot;bill of materials&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;System Block Diagram:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/block_diagram.png&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/block_diagram.png&quot; alt=&quot;system block diagram&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/block_diagram.png&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/block_diagram.png&quot; alt=&quot;system block diagram&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Mechanical Design Sketches:&lt;/strong&gt;&lt;/p&gt;
 
@@ -194,34 +194,34 @@ ball loader. Locations for servo motors and ping sensor are also shown. The
 last set of drawings show more detailed dimensions for the servos, driving 
 boards, and ping sensor.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/Page1.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/Page1.jpg&quot; alt=&quot;Sketches Page 1&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/Page2.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/Page2.jpg&quot; alt=&quot;Sketches Page 2&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/Page3.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/Page3.jpg&quot; alt=&quot;Sketches Page 3&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/Page4.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/Page4.jpg&quot; alt=&quot;Sketches Page 4&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/img005.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/img005.jpg&quot; alt=&quot;Sketches Page 5&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/img006.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/img006.jpg&quot; alt=&quot;Sketches Page 6&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/Page1.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/Page1.jpg&quot; alt=&quot;Sketches Page 1&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/Page2.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/Page2.jpg&quot; alt=&quot;Sketches Page 2&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/Page3.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/Page3.jpg&quot; alt=&quot;Sketches Page 3&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/Page4.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/Page4.jpg&quot; alt=&quot;Sketches Page 4&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/img005.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/img005.jpg&quot; alt=&quot;Sketches Page 5&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/img006.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/img006.jpg&quot; alt=&quot;Sketches Page 6&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Breadboard Tape Sensors:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/tape_sensor_circuit.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/tape_sensor_circuit.jpg&quot; alt=&quot;design 1 - page 1&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/tape_sensor_circuit.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/tape_sensor_circuit.jpg&quot; alt=&quot;design 1 - page 1&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/vtqR5XZU7J0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;strong&gt;Top 2 Levels of State Machine:&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/state-diagram-toplevel.png&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/state-diagram-toplevel.png&quot; alt=&quot;top level&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/state-diagram-shooting.png&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/state-diagram-shooting.png&quot; alt=&quot;shooting&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/state-diagram-avoidance.png&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/state-diagram-avoidance.png&quot; alt=&quot;avoidance&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/state-diagram-escaping.png&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/state-diagram-escaping.png&quot; alt=&quot;escaping&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/state-diagram-ammo.png&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/state-diagram-ammo.png&quot; alt=&quot;ammo&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/state-diagram-toplevel.png&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/state-diagram-toplevel.png&quot; alt=&quot;top level&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/state-diagram-shooting.png&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/state-diagram-shooting.png&quot; alt=&quot;shooting&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/state-diagram-avoidance.png&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/state-diagram-avoidance.png&quot; alt=&quot;avoidance&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/state-diagram-escaping.png&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/state-diagram-escaping.png&quot; alt=&quot;escaping&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/state-diagram-ammo.png&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/state-diagram-ammo.png&quot; alt=&quot;ammo&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Personal Schedules:&lt;/strong&gt;
 &lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/samppl/update/calendars/2015/11/08/personal-schedules.html&quot;&gt;Link to schedules&lt;/a&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Tue, 10 Nov 2015 17:42:10 -0800</pubDate>
-        <link>https://users.soe.ucsc.edu/~vansgirl12https://users.soe.ucsc.edu/~vansgirl12/blog/samppl/update/calendars/2015/11/10/week-1-design.html</link>
-        <guid isPermaLink="true">https://users.soe.ucsc.edu/~vansgirl12https://users.soe.ucsc.edu/~vansgirl12/blog/samppl/update/calendars/2015/11/10/week-1-design.html</guid>
+        <link>https://users.soe.ucsc.edu/~vansgirl12https://users.soe.ucsc.edu/~vansgirl12/samppl/samppl/update/calendars/2015/11/10/week-1-design.html</link>
+        <guid isPermaLink="true">https://users.soe.ucsc.edu/~vansgirl12https://users.soe.ucsc.edu/~vansgirl12/samppl/samppl/update/calendars/2015/11/10/week-1-design.html</guid>
         
         
         <category>samppl</category>
@@ -247,8 +247,8 @@ ind out when we’re working on our ‘droid!&lt;/p&gt;
 &lt;iframe src=&quot;https://www.google.com/calendar/embed?src=ucsc.edu_ntig6llcgq8vbah4u5r1m68kis%40group.calendar.google.com&amp;amp;ctz=America/Los_Angeles&quot; style=&quot;border: 0&quot; width=&quot;400&quot; height=&quot;300&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Sun, 08 Nov 2015 15:01:10 -0800</pubDate>
-        <link>https://users.soe.ucsc.edu/~vansgirl12https://users.soe.ucsc.edu/~vansgirl12/blog/samppl/update/calendars/2015/11/08/personal-schedules.html</link>
-        <guid isPermaLink="true">https://users.soe.ucsc.edu/~vansgirl12https://users.soe.ucsc.edu/~vansgirl12/blog/samppl/update/calendars/2015/11/08/personal-schedules.html</guid>
+        <link>https://users.soe.ucsc.edu/~vansgirl12https://users.soe.ucsc.edu/~vansgirl12/samppl/samppl/update/calendars/2015/11/08/personal-schedules.html</link>
+        <guid isPermaLink="true">https://users.soe.ucsc.edu/~vansgirl12https://users.soe.ucsc.edu/~vansgirl12/samppl/samppl/update/calendars/2015/11/08/personal-schedules.html</guid>
         
         
         <category>samppl</category>
@@ -267,18 +267,18 @@ ind out when we’re working on our ‘droid!&lt;/p&gt;
 
 &lt;p&gt;Design 1 (Our First Choice):&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/design1_page1.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/design1_page1.jpg&quot; alt=&quot;design 1 - page 1&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/design1_page1.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/design1_page2.jpg&quot; alt=&quot;design 1 - page 2&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/design1_page1.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/design1_page1.jpg&quot; alt=&quot;design 1 - page 1&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/design1_page1.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/design1_page2.jpg&quot; alt=&quot;design 1 - page 2&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Design 2 (Back Up Bare Minimum Design) &amp;amp; Design 3 (Back Up Design):
-&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/design23_page1.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/design23_page1.jpg&quot; alt=&quot;design 2/3 - page 1&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/design23_page2.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/design23_page2.jpg&quot; alt=&quot;design 2/3 - page 2&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;
-&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/design23_page3.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/blog/images/design23_page3.jpg&quot; alt=&quot;design 2/3 - page 3&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/design23_page1.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/design23_page1.jpg&quot; alt=&quot;design 2/3 - page 1&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/design23_page2.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/design23_page2.jpg&quot; alt=&quot;design 2/3 - page 2&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;
+&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/design23_page3.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/design23_page3.jpg&quot; alt=&quot;design 2/3 - page 3&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 
 </description>
         <pubDate>Thu, 05 Nov 2015 17:28:43 -0800</pubDate>
-        <link>https://users.soe.ucsc.edu/~vansgirl12https://users.soe.ucsc.edu/~vansgirl12/blog/samppl/update/2015/11/05/welcome-to-samppl.html</link>
-        <guid isPermaLink="true">https://users.soe.ucsc.edu/~vansgirl12https://users.soe.ucsc.edu/~vansgirl12/blog/samppl/update/2015/11/05/welcome-to-samppl.html</guid>
+        <link>https://users.soe.ucsc.edu/~vansgirl12https://users.soe.ucsc.edu/~vansgirl12/samppl/samppl/update/2015/11/05/welcome-to-samppl.html</link>
+        <guid isPermaLink="true">https://users.soe.ucsc.edu/~vansgirl12https://users.soe.ucsc.edu/~vansgirl12/samppl/samppl/update/2015/11/05/welcome-to-samppl.html</guid>
         
         
         <category>samppl</category>
