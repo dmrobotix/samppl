@@ -6,9 +6,112 @@
 </description>
     <link>https://users.soe.ucsc.edu/~vansgirl12/sampplhttps://users.soe.ucsc.edu/~vansgirl12/samppl/</link>
     <atom:link href="https://users.soe.ucsc.edu/~vansgirl12/sampplhttps://users.soe.ucsc.edu/~vansgirl12/samppl/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 15 Nov 2015 12:16:14 -0800</pubDate>
-    <lastBuildDate>Sun, 15 Nov 2015 12:16:14 -0800</lastBuildDate>
+    <pubDate>Tue, 17 Nov 2015 20:31:48 -0800</pubDate>
+    <lastBuildDate>Tue, 17 Nov 2015 20:31:48 -0800</lastBuildDate>
     <generator>Jekyll v3.0.0</generator>
+    
+      <item>
+        <title>Slug Wars -- Prototyping Checkoff</title>
+        <description>&lt;p&gt;Please review the following images, videos, and links for this week’s checkoff.&lt;/p&gt;
+
+&lt;h2 id=&quot;solidworks-model&quot;&gt;&lt;strong&gt;SolidWorks Model&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;We modeled the basic chasis in SolidWorks. Below, you can see in the drawings the three levels with the beacon detector and with a first iteration of our bumpers. We have since made modifications to the bumpers (which you can see below). The new bumpers are modeled in SolidWorks but have not been added to the full assembly.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/isorightview.png&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/isorightview.png&quot; alt=&quot;Isometric Right View&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/rightview.png&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/rightview.png&quot; alt=&quot;Right View&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Isometric View&lt;/td&gt;
+      &lt;td&gt;Right View&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/rearview.png&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/rearview.png&quot; alt=&quot;Rear View&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/topview.png&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/topview.png&quot; alt=&quot;Top View&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Rear View&lt;/td&gt;
+      &lt;td&gt;Top View&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;foamcore-prototype&quot;&gt;&lt;strong&gt;Foamcore Prototype&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/foamcore-robot.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/foamcore-robot.jpg&quot; alt=&quot;Foamcore Prototype&quot; width=&quot;300px&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Working Bumper Prototype (Foamcore)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Please watch the video to see our bumper prototype in action.&lt;/p&gt;
+&lt;iframe width=&quot;420&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/73b4YhN_Y6I&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;perf-boarded-sensors-and-regulators&quot;&gt;&lt;strong&gt;Perf-boarded sensors and regulators&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/trackwiredetector.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/trackwiredetector.jpg&quot; alt=&quot;Track Wire Detector&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/voltageregulators5v33v15a.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/voltageregulators5v33v15a.jpg&quot; alt=&quot;Voltage Regulators 5V, 3.3V 1.5A&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+      &lt;th&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/voltageregulators5v6v33v.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/voltageregulators5v6v33v.jpg&quot; alt=&quot;Voltage Regulators 6V, 5V, 3.3V&quot; /&gt;&lt;/a&gt;&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Track wire detector&lt;/td&gt;
+      &lt;td&gt;Voltage Regulator board: 5V, 3.3V 1.5A&lt;/td&gt;
+      &lt;td&gt;Voltage Regulator board: 6V, 5V, 3.3V 100mA&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/bumpers.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/bumpers.jpg&quot; alt=&quot;Bumpers&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/tapesensors.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/tapesensors.jpg&quot; alt=&quot;Tape Sensors&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/beacondetector.jpg&quot;&gt;&lt;img src=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/images/beacondetector.jpg&quot; alt=&quot;Beacon Detector&quot; /&gt;&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Bump sensors&lt;/td&gt;
+      &lt;td&gt;Tape sensors&lt;/td&gt;
+      &lt;td&gt;Beacon detector&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;hardware-drivers&quot;&gt;&lt;strong&gt;Hardware Drivers&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;We are maintaining our code for the drivers on &lt;a href=&quot;https://www.dropbox.com/sh/v8sjxvh7grjp1ka/AAAzdhRPmgMnUnuQns-ECcOEa?dl=0&quot;&gt;Dropbox&lt;/a&gt;. Please click the link to look through the code. We have finished the drivers for all of our sensors and acuators.&lt;/p&gt;
+
+&lt;h2 id=&quot;breadboard-acuators&quot;&gt;&lt;strong&gt;Breadboard Acuators&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;We breadboarded our acutators but we also mounted them onto our robot and tested them. We posted videos in a previous entry that can be found &lt;a href=&quot;https://users.soe.ucsc.edu/~vansgirl12/samppl/update/wheels/motor/2015/11/10/wheel-testing.html&quot;&gt;here&lt;/a&gt;. You will find two videos there that show that the robot can move and make tank turns using the tank treads.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 17 Nov 2015 11:20:10 -0800</pubDate>
+        <link>https://users.soe.ucsc.edu/~vansgirl12/sampplhttps://users.soe.ucsc.edu/~vansgirl12/samppl/samppl/update/prototype/foamcore/mdf/solidworks/boards/sensors/drivers/2015/11/17/week2-prototype.html</link>
+        <guid isPermaLink="true">https://users.soe.ucsc.edu/~vansgirl12/sampplhttps://users.soe.ucsc.edu/~vansgirl12/samppl/samppl/update/prototype/foamcore/mdf/solidworks/boards/sensors/drivers/2015/11/17/week2-prototype.html</guid>
+        
+        
+        <category>samppl</category>
+        
+        <category>update</category>
+        
+        <category>prototype</category>
+        
+        <category>foamcore</category>
+        
+        <category>mdf</category>
+        
+        <category>solidworks</category>
+        
+        <category>boards</category>
+        
+        <category>sensors</category>
+        
+        <category>drivers</category>
+        
+      </item>
     
       <item>
         <title>Slug Wars -- Tank Tread Experiment Results</title>
