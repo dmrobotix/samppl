@@ -50,7 +50,7 @@ We are maintaining our code for the drivers on [Dropbox](https://www.dropbox.com
 
 __Breadboard Acuators__
 ------
-We breadboarded our acutators but we also mounted them onto our robot and tested them. We posted videos in a previous entry that can be found [here]({{site.baseurl}}/update/wheels/motor/robot/2015/11/15/driving-robot.html). You will find two videos there that show that the robot can move and make tank turns using the tank treads.
+We breadboarded our acutators but we also mounted them onto our robot and tested them. We posted videos in a previous entry that can be found [here]({{site.baseurl}}/samppl/update/wheels/motor/robot/2015/11/15/driving-robot.html). You will find two videos there that show that the robot can move and make tank turns using the tank treads.
 
 
 
